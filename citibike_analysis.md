@@ -1,0 +1,10 @@
+# NYC Citi Bike Analysis 
+This is a summary of the analytic work that I did with the NYC Citi Bike data.
+## New York vs Des Moines Density 
+Through looking at the McDonald's density data, we can easily conclude that the density in New York is much bigger than in Des Moines. The McDonald's are much more spread apart in Des Moines which leads to the assumption that there are longer travel times to reach any points between A and B compared to New York. New York, although a much bigger city in population, it is smaller in square mileage which means points of interests are generally closer. This is the primary reason, along with the current healthy lifestyle trend, why Citibike is used so much because it is a cheaper form of transportation without enlongating the travel time so much. 
+## New York vs Des Moines Populations
+There is a massive population difference between the two cities. New York has 8.4 million while Des Moines has 217 thousand people. This is a staggering difference and although renting bikes around town can still work, we cannot expect New York numbers simply by how different the two population sizes are. The more people are in a dense area, the better it is for this business. The main reason for that is because riding a bike can avoid a lot of traffic and this incentivizes people to rent a bike meanwhile in not so dense areas, the traffic isn't that big of an issue and points of interests are much more spread out, it is easier to ride in a car. 
+## Gender difference
+Although the population is small, it has a majority male percentage of the population. It is at about 52% while New York is about 50%. This is good news because mostly men ride on New York bikes.
+
+[link to dashboard](https://public.tableau.com/profile/sebastian4629#!/vizhome/Module14_15994537377440/Sheet13?publish=yes)
